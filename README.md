@@ -1,4 +1,4 @@
-# 🥠 FortuneCookie
+# 🥠 FortuneCookie (Biscoito da Sorte)
 
 Aplicativo que simula um biscoito da sorte. Toque para “quebrar” e receber frases motivacionais aleatórias.
 
